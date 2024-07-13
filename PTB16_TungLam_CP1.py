@@ -17,12 +17,12 @@
 # print('chu vi hcn là:',chuvi)
 # print('diện tích hcn là :',dientich)
 # # bài3
-n = int(input('hãy nhập số nguyên: '))
-print('số nguyên:',n)
-if n % 2 == 0:
-    print(n, 'là số chẵn')
-else:
-    print(n, 'là số lẻ')
+# n = int(input('hãy nhập số nguyên: '))
+# print('số nguyên:',n)
+# if n % 2 == 0:
+#     print(n, 'là số chẵn')
+# else:
+#     print(n, 'là số lẻ')
 # bài4
 # point = float(input('Hãy nhập điểm của bạn: '))
 
