@@ -3,12 +3,12 @@
 # câu 2:a
 # câu 3:a
 # câu 4:b
-# câu 5:b
-# câu 6:a
+# câu 5:b ==
+# câu 6:a ==
 # câu 7:c
-# câu 8:d
-# CÂU 9:c
-# CÂU 10:b
+# câu 8:d ==
+# CÂU 9:c ==
+# CÂU 10:b ==
 # thực hành 
 # def is_prime(n):
 #     if n < 2:
