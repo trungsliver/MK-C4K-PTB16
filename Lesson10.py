@@ -51,6 +51,7 @@ print(arr)
 
 # Bài 2: Ôn tập danh sách (BTVN)
     # YC1: Nhập vào từ bàn phím 1 danh sách bao gồm 10 số nguyên
+arr = [10, 2, 6, 8, 12, 9, 25, 17, 3, 21]
     # YC2: Thêm số '-5' vào vị trí thứ 2 (index=2) trong danh sách
     # YC3: Tính tổng các số lẻ trong danh sách
     # YC4: Đếm số lượng số chẵn có trong danh sách
