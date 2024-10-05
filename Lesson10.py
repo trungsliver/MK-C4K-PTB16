@@ -54,6 +54,11 @@ print(arr)
 arr = [10, 2, 6, 8, 12, 9, 25, 17, 3, 21]
     # YC2: Thêm số '-5' vào vị trí thứ 2 (index=2) trong danh sách
     # YC3: Tính tổng các số lẻ trong danh sách
+sum = 0                             # Khai báo biến sum để lưu tổng giá trị
+for item in arr:                    # Cách duyệt số 2: chỉ lấy value
+    if item % 2 == 1:               # Kiểm tra phần tử lẻ
+        sum = sum + item            # Nếu phần tử lẻ, cộng vào biến sum
+print('Tổng các số chẵn:', sum)     # Hiển thị kết quả ra màn hình
     # YC4: Đếm số lượng số chẵn có trong danh sách
     # YC5: Tìm giá trị phần tử lớn nhất của danh sách
     # YC6: Tìm vị trí phần tử nhỏ nhất của danh sách
